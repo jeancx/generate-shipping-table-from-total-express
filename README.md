@@ -92,7 +92,7 @@ Você pode modificar o script para:
 ### Uso Avançado
 
 ```python
-from generate_shipping_table_simple import TotalExpressAPI, ShippingTableGenerator
+from generate_shipping_table import TotalExpressAPI, ShippingTableGenerator
 
 # Inicializar API
 api = TotalExpressAPI('seu_usuario', 'sua_senha')

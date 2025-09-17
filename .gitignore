@@ -1,0 +1,5 @@
+/__pycache__/
+/venv/
+/output/
+/shipping_table_generator.log
+.env

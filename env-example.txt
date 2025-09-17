@@ -1,0 +1,16 @@
+# Total Express API Configuration
+# Rename this file to .env and fill in your actual credentials
+
+# Total Express API Credentials (REQUIRED)
+TOTAL_EXPRESS_USERNAME=your_api_username_here
+TOTAL_EXPRESS_PASSWORD=your_api_password_here
+
+# Optional: Debug settings
+DEBUG_TOTAL_EXPRESS=false
+
+# Optional: Custom output directory (default: ./output)
+OUTPUT_DIR=./output
+
+# Optional: Custom timeouts (seconds)
+API_TIMEOUT=30
+REQUEST_DELAY=1
